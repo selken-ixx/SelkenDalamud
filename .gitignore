@@ -1,0 +1,17 @@
+# Local plugin workspace
+/ArmoireButler/
+
+# Build output
+**/bin/
+**/obj/
+
+# Local release artifacts
+release/
+releases/
+*.zip
+*.nupkg
+
+# User/local files
+*.user
+*.suo
+.vs/
