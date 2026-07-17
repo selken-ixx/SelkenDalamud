@@ -28,5 +28,35 @@
       "glamour",
       "inventory"
     ]
+  },
+  {
+    "Author": "Selken",
+    "Name": "Fashion Check Helper",
+    "InternalName": "FashionCheckHelperPlugin",
+    "AssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": "0.1.0.0",
+    "Punchline": "Weekly Fashion Report plans and character progress.",
+    "Description": "Shows the current Fashion Report theme, known gold items, 80-point and 100-point plans. Command: /fch",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/selken-ixx/SelkenDalamud/main/assets/FashionCheckHelper/icon.png",
+    "RepoUrl": "https://github.com/selken-ixx/SelkenDalamud",
+    "DownloadLinkInstall": "https://github.com/selken-ixx/SelkenDalamud/releases/download/FashionCheckHelper-v0.1.0/FashionCheckHelperPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/selken-ixx/SelkenDalamud/releases/download/FashionCheckHelper-v0.1.0/FashionCheckHelperPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/selken-ixx/SelkenDalamud/releases/download/FashionCheckHelper-v0.1.0/FashionCheckHelperPlugin.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1784261641",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "AcceptsFeedback": true,
+    "Tags": [
+      "fashion-report",
+      "gold-saucer",
+      "gear"
+    ]
   }
 ]
