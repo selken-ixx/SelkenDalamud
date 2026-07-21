@@ -1,6 +1,13 @@
 # Local plugin workspace
 /ArmoireButler/
 /FashionCheckHelper/
+/MirapriDreams/
+
+# Local/private docs: keep README files public, ignore other docs.
+*.md
+!README.md
+!**/README.md
+/docs/
 
 # Build output
 **/bin/
